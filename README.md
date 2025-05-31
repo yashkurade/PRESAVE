@@ -34,7 +34,7 @@ Compared to existing Blender presets and asset management tools, this addon offe
 
 ## Installation
 
-- Download Presave.zip 
+- Download PreSave.zip 
 - Copy the extracted zip file into Blender’s addons folder, or install via *Edit > Preferences > Add-ons > Install...*  
 - Enable the addon in the preferences.  
 - Access the save/apply preset operators through the search menu or custom UI.
