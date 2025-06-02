@@ -30,7 +30,9 @@ Compared to existing Blender presets and asset management tools, this addon offe
 
 1. Select an object in Blender.  
 2. Run the “Save Preset” operator to export a `.py` script preset capturing transforms, modifiers, materials, and geometry nodes.  
-3. To apply, run the exported `.py` script in Blender with your target objects selected. The addon recreates the saved setup exactly.  
+3. To apply, run the exported `.py` script in Blender with your target objects selected. The addon recreates the saved setup exactly.
+
+Tutorial Link : https://youtu.be/65UdsYL98XY?si=9w6qNvk1-QYQsTEe
 
 ## Installation
 
